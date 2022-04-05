@@ -9,8 +9,15 @@ const Home = () => {
     <div>
       <div className="p-44 grid grid-cols-2 justify-center items-center">
         <div className="p-30">
-          <h1 className="text-4xl text-orange-600">This is Heading Add Me</h1>
-          <p>This is good awesome momin vai</p>
+          <h1 className="text-4xl text-orange-600">
+            This is Gamming Chiar Website
+          </h1>
+          <p>
+            GAMIFIED SEATING: A racecar-style gaming chair that provides luxury
+            and comfort, whether it's used for intense gaming sessions and
+            climbing to the top of the leaderboards, or long work days.
+            ERGONOMIC COMFORT.
+          </p>
           <button className="py-3 px-2 bg-cyan-500 text-white border-2 rounded-lg hover:bg-red-600 duration-150">
             Momin Vai koy?
           </button>
@@ -18,7 +25,7 @@ const Home = () => {
         <div>
           <img
             className="border-2 rounded-lg"
-            src="https://media.istockphoto.com/photos/food-for-healthy-brain-picture-id1299079243?b=1&k=20&m=1299079243&s=170667a&w=0&h=vav4VYNuuV0Qc4fl2JhROewXaKGEYnhlXddiB4PCKm8="
+            src="https://m.media-amazon.com/images/I/71y8rPagzDL._AC_UL320_.jpg"
             alt=""
           />
         </div>
